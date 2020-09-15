@@ -59,3 +59,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+//====================================//
+Step to be done for project
+//====================================//
+
+This is the laravel project for admin_panel (e-commerce site)
+
+Create a database name book_saved and then
+
+command -> php artisan migrate (to make database table) another command -> php artisan make:model book (to make model) another command -> php artisan make:controller book_controller (to make controller)
+
