@@ -62,7 +62,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 //====================================//
+
 Step to be done for project
+
 //====================================//
 
 This is the laravel project for admin_panel (e-commerce site)
